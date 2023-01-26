@@ -88,21 +88,20 @@
 
 <br/>  
 
+## Github Stats
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniimessh&" alt="aniimessh" /></p>
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aniimessh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-  
+## Github Trophies
+<div align="center">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniimessh" alt="aniimessh" /></a> </p>
+  </div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aniimessh&&style=flat-square" align="center" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniimessh&label=Profile%20views&color=0e75b6&style=flat" alt="aniimessh" /> </p>
 </div>  
   
 
