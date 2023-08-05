@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" height="600px"></img>
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></img>
 </div>
 
 ## 💫 About Me:
