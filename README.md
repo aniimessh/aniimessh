@@ -5,6 +5,7 @@
 ## 💫 About Me:
 🔭 I’m working on my skills.<br>👯 I’m looking to collaborate on open-source projects.<br>🤝 I’m looking for help with backend development.<br>🌱 I’m currently learning nextjs.<br>💬 Ask me about javascript, react, and tailwind.<br>⚡ Fun fact When I'm stuck on a coding problem, I find solace in sleep. 
 
+[![An image of @aniimessh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniimessh)](https://holopin.io/@aniimessh)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/me_insane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anii.messh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniimessh-gupta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@animeshsep01) 
